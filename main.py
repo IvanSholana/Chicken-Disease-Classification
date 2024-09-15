@@ -1,0 +1,1 @@
+from src.CNNChickenClassifier import logger
